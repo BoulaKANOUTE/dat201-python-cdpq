@@ -1,0 +1,100 @@
+;company_ID;company_Name;country;sector_GICS;sector_GICS_name;economc_sector;cyclic_ind
+0;001078;Abbott Laboratories;USA;35;Health Care;CONSOMMATION;False
+1;001300;Honeywell International Inc;USA;20;Industrials;INDUSTRIELLES;True
+2;001447;American Express Co;USA;40;Financials;SENSIBLE AUX TAUX;False
+3;001602;Amgen Inc;USA;35;Health Care;CONSOMMATION;False
+4;001690;Apple Inc;USA;45;Information Technology;INDUSTRIELLES;False
+5;002136;Verizon Communications Inc;USA;50;Communication Services;SENSIBLE AUX TAUX;False
+6;002176;Berkshire Hathaway Inc;USA;40;Financials;SENSIBLE AUX TAUX;False
+7;002285;Boeing Co;USA;20;Industrials;INDUSTRIELLES;True
+8;002410;BP PLC;GBR;10;Energy;RESSOURCES;False
+9;002968;JPMorgan Chase & Co;USA;40;Financials;SENSIBLE AUX TAUX;False
+10;002991;Chevron Corp;USA;10;Energy;RESSOURCES;False
+11;003144;Coca-Cola Co (The);USA;30;Consumer Staples;CONSOMMATION;False
+12;003226;Comcast Corp;USA;25;Consumer Discretionary;CONSOMMATION;False
+13;003243;Citigroup Inc;USA;40;Financials;SENSIBLE AUX TAUX;False
+14;003735;Danaher Corp;USA;20;Industrials;INDUSTRIELLES;True
+15;003980;Walt Disney Co (The);USA;25;Consumer Discretionary;CONSOMMATION;False
+16;004503;Exxon Mobil Corp;USA;10;Energy;RESSOURCES;False
+17;004517;NextEra Energy Inc;USA;55;Utilities;SENSIBLE AUX TAUX;False
+18;005180;Glaxosmithkline PLC;GBR;35;Health Care;CONSOMMATION;False
+19;005680;Home Depot Inc. (The);USA;25;Consumer Discretionary;CONSOMMATION;False
+20;006008;Intel Corp;USA;45;Information Technology;INDUSTRIELLES;False
+21;006066;International Business Machines Corp;USA;45;Information Technology;INDUSTRIELLES;False
+22;006266;Johnson & Johnson;USA;35;Health Care;CONSOMMATION;False
+23;006730;Eli Lilly and Co;USA;35;Health Care;CONSOMMATION;False
+24;006774;Lockheed Martin Corp;USA;20;Industrials;INDUSTRIELLES;True
+25;007154;McDonald's Corp;USA;25;Consumer Discretionary;CONSOMMATION;False
+26;007228;Medtronic PLC;IRL;35;Health Care;CONSOMMATION;False
+27;007257;Merck & Co Inc.;USA;35;Health Care;CONSOMMATION;False
+28;007647;Bank of America Corp;USA;40;Financials;SENSIBLE AUX TAUX;False
+29;007906;Nike Inc;USA;25;Consumer Discretionary;CONSOMMATION;False
+30;008007;Wells Fargo & Co;USA;40;Financials;SENSIBLE AUX TAUX;False
+31;008020;Novo Nordisk A/S;DNK;35;Health Care;CONSOMMATION;False
+32;008479;PepsiCo Inc;USA;30;Consumer Staples;CONSOMMATION;False
+33;008530;Pfizer Inc;USA;35;Health Care;CONSOMMATION;False
+34;008762;Procter & Gamble Co (The);USA;30;Consumer Staples;CONSOMMATION;False
+35;009899;AT&T Inc;USA;50;Communication Services;SENSIBLE AUX TAUX;False
+36;010499;Texas Instruments Inc;USA;45;Information Technology;INDUSTRIELLES;False
+37;010530;Thermo Fisher Scientific Inc;USA;35;Health Care;CONSOMMATION;False
+38;010867;Union Pacific Corp;USA;20;Industrials;INDUSTRIELLES;True
+39;010903;Unitedhealth Group Inc;USA;35;Health Care;CONSOMMATION;False
+40;010920;United Parcel Service Inc;USA;20;Industrials;INDUSTRIELLES;True
+41;010983;United Technologies Corp;USA;20;Industrials;INDUSTRIELLES;True
+42;011259;Walmart Inc;USA;30;Consumer Staples;CONSOMMATION;False
+43;012141;Microsoft Corp;USA;45;Information Technology;INDUSTRIELLES;False
+44;012142;Oracle Corp;USA;45;Information Technology;INDUSTRIELLES;False
+45;012384;Royal Dutch Shell PLC;NLD;10;Energy;RESSOURCES;False
+46;012540;Adobe Inc;USA;45;Information Technology;INDUSTRIELLES;False
+47;013312;BHP Group Ltd;AUS;15;Materials;RESSOURCES;True
+48;014447;LVMH Moet Hennessy Louis Vuitton SE;FRA;25;Consumer Discretionary;CONSOMMATION;False
+49;015509;HSBC Holdings PLC;GBR;40;Financials;SENSIBLE AUX TAUX;False
+50;015633;Royal Bank of Canada;CAN;40;Financials;SENSIBLE AUX TAUX;False
+51;015706;Toronto-Dominion Bank (The);CAN;40;Financials;SENSIBLE AUX TAUX;False
+52;016101;AbbVie Inc;USA;35;Health Care;CONSOMMATION;False
+53;016603;Nestle SA, Cham Und Vevey;CHE;30;Consumer Staples;CONSOMMATION;False
+54;018636;Diageo PLC;GBR;30;Consumer Staples;CONSOMMATION;False
+55;019661;Toyota Motor Corp;JPN;25;Consumer Discretionary;INDUSTRIELLES;False
+56;020530;Alibaba Group Holding Ltd;CHN;45;Information Technology;INDUSTRIELLES;False
+57;020779;Cisco Systems Inc;USA;45;Information Technology;INDUSTRIELLES;False
+58;024616;PayPal Holdings Inc;USA;45;Information Technology;INDUSTRIELLES;False
+59;024625;TOTAL SA;FRA;10;Energy;RESSOURCES;False
+60;025124;Linde Plc;GBR;15;Materials;RESSOURCES;True
+61;025434;Starbucks Corp;USA;25;Consumer Discretionary;CONSOMMATION;False
+62;025648;Roche Holding AG;CHE;35;Health Care;CONSOMMATION;False
+63;028272;Astrazeneca PLC;GBR;35;Health Care;CONSOMMATION;False
+64;029028;Costco Wholesale Corp;USA;30;Consumer Staples;CONSOMMATION;False
+65;064768;Amazon.com Inc;USA;25;Consumer Discretionary;CONSOMMATION;False
+66;065662;China Mobile Ltd;HKG;50;Communication Services;SENSIBLE AUX TAUX;False
+67;100581;L'Oreal S.A., Paris;FRA;30;Consumer Staples;CONSOMMATION;False
+68;101204;Sanofi;FRA;35;Health Care;CONSOMMATION;False
+69;101310;Novartis AG;CHE;35;Health Care;CONSOMMATION;False
+70;103487;SAP SE;DEU;45;Information Technology;INDUSTRIELLES;False
+71;104604;Samsung Electronics Co Ltd;KOR;45;Information Technology;INDUSTRIELLES;False
+72;105365;American Tower Corp;USA;40;Financials;SENSIBLE AUX TAUX;False
+73;117768;NVIDIA Corp;USA;45;Information Technology;INDUSTRIELLES;False
+74;133870;Petrochina Co Ltd;CHN;10;Energy;RESSOURCES;False
+75;147579;Netflix Inc;USA;25;Consumer Discretionary;CONSOMMATION;False
+76;157855;salesforce.com Inc;USA;45;Information Technology;INDUSTRIELLES;False
+77;160225;Mastercard Inc;USA;45;Information Technology;INDUSTRIELLES;False
+78;160329;Alphabet Inc;USA;50;Communication Services;CONSOMMATION;True
+79;160709;Ping An Insurance Group;CHN;40;Financials;SENSIBLE AUX TAUX;False
+80;170617;Facebook Inc;USA;45;Information Technology;INDUSTRIELLES;False
+81;179534;Visa Inc;USA;45;Information Technology;INDUSTRIELLES;False
+82;179621;Philip Morris International Inc;USA;30;Consumer Staples;CONSOMMATION;False
+83;180711;Broadcom Inc;USA;45;Information Technology;INDUSTRIELLES;False
+84;201395;Taiwan Semiconductor Manufacturing Co Ltd;TWN;45;Information Technology;INDUSTRIELLES;False
+85;206059;Naspers Ltd;ZAF;25;Consumer Discretionary;CONSOMMATION;False
+86;207074;Reliance Industries Ltd;IND;15;Materials;RESSOURCES;True
+87;220833;Airbus SE;NLD;20;Industrials;INDUSTRIELLES;True
+88;241637;Anheuser-Busch InBev SA/NV;BEL;30;Consumer Staples;CONSOMMATION;False
+89;251321;Kweichow Moutai Co Ltd;CHN;30;Consumer Staples;CONSOMMATION;False
+90;254023;China Merchants Bank Co Ltd;CHN;40;Financials;SENSIBLE AUX TAUX;False
+91;259503;China Life Insurance Co Ltd;CHN;40;Financials;SENSIBLE AUX TAUX;False
+92;267461;Bank of China Ltd;CHN;40;Financials;SENSIBLE AUX TAUX;False
+93;269783;Agricultural Bank of China Ltd;CHN;40;Financials;SENSIBLE AUX TAUX;False
+94;270615;Tencent Holdings LTD;CHN;50;Communication Services;CONSOMMATION;True
+95;270885;Tata Consultancy Services Ltd;IND;45;Information Technology;INDUSTRIELLES;False
+96;274364;China Construction Bank Corp;CHN;40;Financials;SENSIBLE AUX TAUX;False
+97;279378;Industrial & Commercial Bank of China Ltd;CHN;40;Financials;SENSIBLE AUX TAUX;False
+98;295735;AIA Group Ltd;HKG;40;Financials;SENSIBLE AUX TAUX;False
