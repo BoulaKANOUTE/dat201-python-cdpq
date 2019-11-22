@@ -1,0 +1,100 @@
+company_ID,company_Name,country,sector_GICS,sector_GICS_name,economc_sector,cyclic_ind
+1078,Abbott Laboratories,USA,35,Health Care,CONSOMMATION,False
+1300,Honeywell International Inc,USA,20,Industrials,INDUSTRIELLES,True
+1447,American Express Co,USA,40,Financials,SENSIBLE AUX TAUX,False
+1602,Amgen Inc,USA,35,Health Care,CONSOMMATION,False
+1690,Apple Inc,USA,45,Information Technology,INDUSTRIELLES,False
+2136,Verizon Communications Inc,USA,50,Communication Services,SENSIBLE AUX TAUX,False
+2176,Berkshire Hathaway Inc,USA,40,Financials,SENSIBLE AUX TAUX,False
+2285,Boeing Co,USA,20,Industrials,INDUSTRIELLES,True
+2410,BP PLC,GBR,10,Energy,RESSOURCES,False
+2968,JPMorgan Chase & Co,USA,40,Financials,SENSIBLE AUX TAUX,False
+2991,Chevron Corp,USA,10,Energy,RESSOURCES,False
+3144,Coca-Cola Co (The),USA,30,Consumer Staples,CONSOMMATION,False
+3226,Comcast Corp,USA,25,Consumer Discretionary,CONSOMMATION,False
+3243,Citigroup Inc,USA,40,Financials,SENSIBLE AUX TAUX,False
+3735,Danaher Corp,USA,20,Industrials,INDUSTRIELLES,True
+3980,Walt Disney Co (The),USA,25,Consumer Discretionary,CONSOMMATION,False
+4503,Exxon Mobil Corp,USA,10,Energy,RESSOURCES,False
+4517,NextEra Energy Inc,USA,55,Utilities,SENSIBLE AUX TAUX,False
+5180,Glaxosmithkline PLC,GBR,35,Health Care,CONSOMMATION,False
+5680,Home Depot Inc. (The),USA,25,Consumer Discretionary,CONSOMMATION,False
+6008,Intel Corp,USA,45,Information Technology,INDUSTRIELLES,False
+6066,International Business Machines Corp,USA,45,Information Technology,INDUSTRIELLES,False
+6266,Johnson & Johnson,USA,35,Health Care,CONSOMMATION,False
+6730,Eli Lilly and Co,USA,35,Health Care,CONSOMMATION,False
+6774,Lockheed Martin Corp,USA,20,Industrials,INDUSTRIELLES,True
+7154,McDonald's Corp,USA,25,Consumer Discretionary,CONSOMMATION,False
+7228,Medtronic PLC,IRL,35,Health Care,CONSOMMATION,False
+7257,Merck & Co Inc.,USA,35,Health Care,CONSOMMATION,False
+7647,Bank of America Corp,USA,40,Financials,SENSIBLE AUX TAUX,False
+7906,Nike Inc,USA,25,Consumer Discretionary,CONSOMMATION,False
+8007,Wells Fargo & Co,USA,40,Financials,SENSIBLE AUX TAUX,False
+8020,Novo Nordisk A/S,DNK,35,Health Care,CONSOMMATION,False
+8479,PepsiCo Inc,USA,30,Consumer Staples,CONSOMMATION,False
+8530,Pfizer Inc,USA,35,Health Care,CONSOMMATION,False
+8762,Procter & Gamble Co (The),USA,30,Consumer Staples,CONSOMMATION,False
+9899,AT&T Inc,USA,50,Communication Services,SENSIBLE AUX TAUX,False
+10499,Texas Instruments Inc,USA,45,Information Technology,INDUSTRIELLES,False
+10530,Thermo Fisher Scientific Inc,USA,35,Health Care,CONSOMMATION,False
+10867,Union Pacific Corp,USA,20,Industrials,INDUSTRIELLES,True
+10903,Unitedhealth Group Inc,USA,35,Health Care,CONSOMMATION,False
+10920,United Parcel Service Inc,USA,20,Industrials,INDUSTRIELLES,True
+10983,United Technologies Corp,USA,20,Industrials,INDUSTRIELLES,True
+11259,Walmart Inc,USA,30,Consumer Staples,CONSOMMATION,False
+12141,Microsoft Corp,USA,45,Information Technology,INDUSTRIELLES,False
+12142,Oracle Corp,USA,45,Information Technology,INDUSTRIELLES,False
+12384,Royal Dutch Shell PLC,NLD,10,Energy,RESSOURCES,False
+12540,Adobe Inc,USA,45,Information Technology,INDUSTRIELLES,False
+13312,BHP Group Ltd,AUS,15,Materials,RESSOURCES,True
+14447,LVMH Moet Hennessy Louis Vuitton SE,FRA,25,Consumer Discretionary,CONSOMMATION,False
+15509,HSBC Holdings PLC,GBR,40,Financials,SENSIBLE AUX TAUX,False
+15633,Royal Bank of Canada,CAN,40,Financials,SENSIBLE AUX TAUX,False
+15706,Toronto-Dominion Bank (The),CAN,40,Financials,SENSIBLE AUX TAUX,False
+16101,AbbVie Inc,USA,35,Health Care,CONSOMMATION,False
+16603,"Nestle SA, Cham Und Vevey",CHE,30,Consumer Staples,CONSOMMATION,False
+18636,Diageo PLC,GBR,30,Consumer Staples,CONSOMMATION,False
+19661,Toyota Motor Corp,JPN,25,Consumer Discretionary,INDUSTRIELLES,False
+20530,Alibaba Group Holding Ltd,CHN,45,Information Technology,INDUSTRIELLES,False
+20779,Cisco Systems Inc,USA,45,Information Technology,INDUSTRIELLES,False
+24616,PayPal Holdings Inc,USA,45,Information Technology,INDUSTRIELLES,False
+24625,TOTAL SA,FRA,10,Energy,RESSOURCES,False
+25124,Linde Plc,GBR,15,Materials,RESSOURCES,True
+25434,Starbucks Corp,USA,25,Consumer Discretionary,CONSOMMATION,False
+25648,Roche Holding AG,CHE,35,Health Care,CONSOMMATION,False
+28272,Astrazeneca PLC,GBR,35,Health Care,CONSOMMATION,False
+29028,Costco Wholesale Corp,USA,30,Consumer Staples,CONSOMMATION,False
+64768,Amazon.com Inc,USA,25,Consumer Discretionary,CONSOMMATION,False
+65662,China Mobile Ltd,HKG,50,Communication Services,SENSIBLE AUX TAUX,False
+100581,"L'Oreal S.A., Paris",FRA,30,Consumer Staples,CONSOMMATION,False
+101204,Sanofi,FRA,35,Health Care,CONSOMMATION,False
+101310,Novartis AG,CHE,35,Health Care,CONSOMMATION,False
+103487,SAP SE,DEU,45,Information Technology,INDUSTRIELLES,False
+104604,Samsung Electronics Co Ltd,KOR,45,Information Technology,INDUSTRIELLES,False
+105365,American Tower Corp,USA,40,Financials,SENSIBLE AUX TAUX,False
+117768,NVIDIA Corp,USA,45,Information Technology,INDUSTRIELLES,False
+133870,Petrochina Co Ltd,CHN,10,Energy,RESSOURCES,False
+147579,Netflix Inc,USA,25,Consumer Discretionary,CONSOMMATION,False
+157855,salesforce.com Inc,USA,45,Information Technology,INDUSTRIELLES,False
+160225,Mastercard Inc,USA,45,Information Technology,INDUSTRIELLES,False
+160329,Alphabet Inc,USA,50,Communication Services,CONSOMMATION,True
+160709,Ping An Insurance Group,CHN,40,Financials,SENSIBLE AUX TAUX,False
+170617,Facebook Inc,USA,45,Information Technology,INDUSTRIELLES,False
+179534,Visa Inc,USA,45,Information Technology,INDUSTRIELLES,False
+179621,Philip Morris International Inc,USA,30,Consumer Staples,CONSOMMATION,False
+180711,Broadcom Inc,USA,45,Information Technology,INDUSTRIELLES,False
+201395,Taiwan Semiconductor Manufacturing Co Ltd,TWN,45,Information Technology,INDUSTRIELLES,False
+206059,Naspers Ltd,ZAF,25,Consumer Discretionary,CONSOMMATION,False
+207074,Reliance Industries Ltd,IND,15,Materials,RESSOURCES,True
+220833,Airbus SE,NLD,20,Industrials,INDUSTRIELLES,True
+241637,Anheuser-Busch InBev SA/NV,BEL,30,Consumer Staples,CONSOMMATION,False
+251321,Kweichow Moutai Co Ltd,CHN,30,Consumer Staples,CONSOMMATION,False
+254023,China Merchants Bank Co Ltd,CHN,40,Financials,SENSIBLE AUX TAUX,False
+259503,China Life Insurance Co Ltd,CHN,40,Financials,SENSIBLE AUX TAUX,False
+267461,Bank of China Ltd,CHN,40,Financials,SENSIBLE AUX TAUX,False
+269783,Agricultural Bank of China Ltd,CHN,40,Financials,SENSIBLE AUX TAUX,False
+270615,Tencent Holdings LTD,CHN,50,Communication Services,CONSOMMATION,True
+270885,Tata Consultancy Services Ltd,IND,45,Information Technology,INDUSTRIELLES,False
+274364,China Construction Bank Corp,CHN,40,Financials,SENSIBLE AUX TAUX,False
+279378,Industrial & Commercial Bank of China Ltd,CHN,40,Financials,SENSIBLE AUX TAUX,False
+295735,AIA Group Ltd,HKG,40,Financials,SENSIBLE AUX TAUX,False
